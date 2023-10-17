@@ -1,0 +1,1 @@
+start cmd.exe /k "java -jar target/myapplication-0.0.1-SNAPSHOT.jar" pause
